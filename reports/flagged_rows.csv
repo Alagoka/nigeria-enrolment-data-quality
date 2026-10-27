@@ -1,0 +1,27 @@
+check,state,year,gender,value,note
+Missing record,Borno,2015,Female,,No row for this state/year/sex
+Missing record,Borno,2015,Male,,No row for this state/year/sex
+Large year-on-year change,Abia,2015->2016,Female,35347 -> 19633 (-44%),Change above 40%
+Large year-on-year change,Abia,2015->2016,Male,31755 -> 15709 (-51%),Change above 40%
+Large year-on-year change,Akwa Ibom,2015->2016,Female,190263 -> 92432 (-51%),Change above 40%
+Large year-on-year change,Akwa Ibom,2015->2016,Male,177488 -> 88500 (-50%),Change above 40%
+Large year-on-year change,Benue,2015->2016,Female,183168 -> 71648 (-61%),Change above 40%
+Large year-on-year change,Benue,2015->2016,Male,234728 -> 83618 (-64%),Change above 40%
+Large year-on-year change,Cross River,2015->2016,Female,88609 -> 31237 (-65%),Change above 40%
+Large year-on-year change,Cross River,2015->2016,Male,87120 -> 33075 (-62%),Change above 40%
+Large year-on-year change,Kaduna,2015->2016,Female,44514 -> 138047 (+210%),Change above 40%
+Large year-on-year change,Kaduna,2015->2016,Male,47493 -> 167595 (+253%),Change above 40%
+Large year-on-year change,Kwara,2015->2016,Female,16842 -> 63188 (+275%),Change above 40%
+Large year-on-year change,Kwara,2015->2016,Male,17896 -> 65939 (+268%),Change above 40%
+Large year-on-year change,Ondo,2015->2016,Female,105718 -> 60632 (-43%),Change above 40%
+Large year-on-year change,Ondo,2015->2016,Male,110753 -> 59274 (-46%),Change above 40%
+Large year-on-year change,Osun,2015->2016,Female,13281 -> 62490 (+371%),Change above 40%
+Large year-on-year change,Osun,2015->2016,Male,12398 -> 63876 (+415%),Change above 40%
+Large year-on-year change,Sokoto,2015->2016,Female,32337 -> 71132 (+120%),Change above 40%
+Large year-on-year change,Sokoto,2015->2016,Male,58732 -> 128906 (+119%),Change above 40%
+Large year-on-year change,Taraba,2015->2016,Female,31007 -> 49218 (+59%),Change above 40%
+Large year-on-year change,Taraba,2015->2016,Male,40638 -> 67371 (+66%),Change above 40%
+Unusual female share,Abia,2016,both,56% female,Outside 35%-55%
+Unusual female share,Kebbi,2015,both,32% female,Outside 35%-55%
+Unusual female share,Kebbi,2016,both,33% female,Outside 35%-55%
+Unusual female share,Zamfara,2016,both,34% female,Outside 35%-55%
